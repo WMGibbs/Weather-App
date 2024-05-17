@@ -25,20 +25,20 @@ button[type='submit'] {
     padding: 10px 20px;
     font-weight: bold;
     font-size: 2rem;
-    background-color: hsl(296, 100%, 30%);
-    color: white;
+    background-color: hsl(207, 80%, 32%);
+    color: hsl(0, 0%, 100%);
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button[type='submit']:hover {
-    background-color: hsl(300, 100%, 25%);
+    background-color: hsl(187, 97%, 30%);
 }
 
 .card {
     background-color: #663dff;
-    background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);
+    background-image: linear-gradient(319deg, #105993 0%, #baf6fe 37%, #ffa151 100%);
     padding: 50px;
     box-shadow: 2px 2px 5px hsl(0, 0%, 0%, 0.5);
     min-width: 300px;
